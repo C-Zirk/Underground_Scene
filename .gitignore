@@ -436,3 +436,7 @@ ASALocalRun/
 #training models
 **/**/haarcascade_frontalface_alt2.xml
 **/**/lbfmodel.yaml
+UnrealScene/Content/Maps/Level_Chris.umap
+UnrealScene/Content/Chris/Maps/Level_Blockout.umap
+UnrealScene/Content/Chris/Maps/Level_Christoph.umap
+UnrealScene/Content/Maps/Level_Blockout.umap
